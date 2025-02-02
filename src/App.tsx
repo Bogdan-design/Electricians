@@ -16,14 +16,6 @@ import {
 
 function App() {
 
-  const handlerForm = () => {
-    return (
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScotdJYhdWmLnYJcB7e4dFxJx84AjfMJY7IYkp257iZ-c1STA/viewform?usp=header" target="_blank" rel="noopener noreferrer">
-          View Icon Documentation
-        </a>
-    );
-  };
-
   return (
     <div className="min-h-screen">
       <header className="bg-white shadow-sm fixed w-full z-50">
